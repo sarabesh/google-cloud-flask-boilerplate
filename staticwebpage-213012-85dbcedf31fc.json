@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "staticwebpage-213012",
+  "private_key_id": "85dbcedf31fc141be4efeecbf0b33b2bc6c83494",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuIJ64E4CKnowr\nW6cfnC2QW8J0Uy5aaqlHeV5sO3/qJDHyYB8eVicZFWV46sThHA+ijC2QLpokRb46\n6Hct1TyXK9laLq8gnAHei/YMj5yJWTCYFEO+iI73tvEKu7Qc2PnJ3abtT09YYh1E\nIbdfXzGtgdRSdAdf7GDD02zvto2uI6E+ljhZBSrDmVTDGe9RlbQn8P3i/rNXpxVT\nexoBypLwAYRKZ8g+tMYzM+xvP1FFeANrfPs5Wnokw4W16Sg+M2SbGTCv/b0rRZgv\nbV2XBQHxt15+B0Q2LEcUb1sSiy8+7mcJdgSpBGbX0RZccTgFs2bFsR9vgt7Nk12/\n1ZOwu72lAgMBAAECggEAAyoWmFPKZzqAY51TyTBGZ7QzMXf9hKkhkGn1PFRMe83S\nlowGpL9+EGeiI3NoxoqDAjo37cHbDUOzNFDbMZsJcdnbJldo2VfcdNXoT8wgVSKo\nzmq33HOQ3ZGWidJlcIzE5VVA3lktoPaPf5h5Q6NwPK36VNFE/QpHq+dguG6B3qNB\ncwTO41eaJLjUdqFYLC0PxV83ey++b3xURKTDdsC/6i3eGBH6/eKAk+jezJzYAVq8\nCpnbBmNSQ1lwU1lSV6+Rj18JT+nEYPDDTAriz/KK8LsP14pmRJXXLgNjyC0q487P\ntp4WewDkIMZEc8h9pD2+fAA1rykyb8f8Jv+9QX5z1QKBgQDXTIwvoa3ocyDu+ee0\nAXphR3RJDpWhFgrYEJRY3aPELuE6l+3VWXH9REZtSWkZgRs250c1Xr/Jb0FqT0u5\n3AfwLzv2GX31aLKrFV99K8Kw8qfVszo+iMpsZ3ABe15hnDwitt4V8tbdQSX7bpV5\nQuaW2+knaSsEwEP8q4Ns0hgOKwKBgQDPC4/3Du7n97Qc0gzfomFoRzvTDOSH/z4l\naIKRGO20HdB8Af17ajS2yhNjvvRkbt7Be2tf6t2dATusv+Sk+l7GHRDiQZQjLLn+\nxOV/g6+/a2SHloRpakvD7EiwvJYcvaD1j3c9XK5C8YFbZuKIOO/oQcJyrc+psacX\nW0a0d/VLbwKBgCS2KcVJdWUIlJoLROYdxmdmDr8SXJNONeUn1pPcnzspn0Alfel+\nSgCcrsGd3ez6ZdCT2UGReXR4oxfkk44KpdPfygKp0B+Tjbu8dj7awmT3y4SV/h2B\np7qaXK/0AGD2ig6FThNCCD9MB5T7A0PdE4Kv1u7gcPRrcGxaNpvMq0tnAoGBAMF7\nkKHUNrZX6N01/gnO+TA1wVZNKhNdF3pl2/40SY6Ufgwk3/jBG1nmJZCFFmX0pf4x\nk/oixc6/JEEfYlA6GO8SooCNwB3O4lGPNtie+1HqzhtXMY5BY2RIHvXqhm19WDmi\nRE/3mHG+tp/v2aprauak7U211+ZAumE9Tym/IF/JAoGAEKnD/ZNzgXBBAmcK+x4C\n7FKrogy5M4sUxHKY4kTEJ9ctm4zAuMQk9lfwPvo95kWgIpQyETRSJABhapFZlRX1\nO4dB5jJ7QF1QvIUzqfRdIdF5KvPa3snDYl894SB4Fu3SnUzPqciiiGzeHiO70kuD\nzD/w3cKTxhqwNMr4VjkG6nk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "whitewolf@staticwebpage-213012.iam.gserviceaccount.com",
+  "client_id": "103248207395725683969",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/whitewolf%40staticwebpage-213012.iam.gserviceaccount.com"
+}
